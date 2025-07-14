@@ -153,22 +153,3 @@ But for:
 * Add LangGraph if you want branching logic
 
 ---
-
-** Maintainer:** \[Your Name]
-**License:** MIT
-
-Enjoy automating your CRM! 🚀
-
-```
-
----
-
-##  Ready to use!
-
-If you’d like, I can also write:
-- ✅ A ready `requirements.txt`
-- ✅ An example `crm_tools.py`
-- ✅ A `.gitignore`
-
-**Want it? Just say: _“Yes, give me the starter pack!”_ 🚀**
-```
