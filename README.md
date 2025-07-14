@@ -1,6 +1,6 @@
 # GenAI CRM Automation
 
-A simple GenAI agent that automates **basic CRM tasks** using **OpenAI** + **LangChain**.  
+A simple GenAI multi-agent system that automates CRM tasks like creating contacts, sending emails, and managing deals using OpenAI + LangChain.  
 This version runs **without LangGraph** for simplicity and reliability.
 
 ---
